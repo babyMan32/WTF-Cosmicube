@@ -44,10 +44,4 @@
 	<SubTexture name="hey0003" x="264" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
 	<SubTexture name="hey0004" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
 	<SubTexture name="hey0005" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
-	<SubTexture name="cheer0000" x="792" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
-	<SubTexture name="cheer0001" x="792" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
-	<SubTexture name="cheer0002" x="1056" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
-	<SubTexture name="cheer0003" x="1056" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
-	<SubTexture name="cheer0004" x="0" y="984" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
-	<SubTexture name="cheer0005" x="0" y="984" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
 </TextureAtlas>

@@ -6,12 +6,12 @@
 	<SubTexture name="idle0003" x="260" y="0" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
 	<SubTexture name="idle0004" x="520" y="0" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
 	<SubTexture name="idle0005" x="520" y="0" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
-	<SubTexture name="cheer0000" x="780" y="586" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
-	<SubTexture name="cheer0001" x="780" y="586" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
-	<SubTexture name="cheer0002" x="0" y="879" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
-	<SubTexture name="cheer0003" x="0" y="879" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
-	<SubTexture name="cry0000" x="260" y="879" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
-	<SubTexture name="cry0001" x="260" y="879" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
-	<SubTexture name="cry0002" x="520" y="879" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
-	<SubTexture name="cry0003" x="520" y="879" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
+	<SubTexture name="cheer0000" x="0" y="293" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
+	<SubTexture name="cheer0001" x="0" y="293" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
+	<SubTexture name="cheer0002" x="260" y="293" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
+	<SubTexture name="cheer0003" x="260" y="293" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
+	<SubTexture name="cry0000" x="520" y="293" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
+	<SubTexture name="cry0001" x="520" y="293" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
+	<SubTexture name="cry0002" x="0" y="586" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
+	<SubTexture name="cry0003" x="0" y="586" width="260" height="293" frameX="0" frameY="0" frameWidth="260" frameHeight="293" />
 </TextureAtlas>
