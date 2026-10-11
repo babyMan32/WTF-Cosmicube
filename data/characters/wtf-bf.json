@@ -139,7 +139,7 @@
 		405
 	],
 	"dance_every": 2,
-	"gameover_intial_sound": "fnf_loss_sfx-wtf-bf",
+	"gameover_intial_sound": "gameover-wtf-bf",
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
 	"healthicon": "wtf-bf",
@@ -147,7 +147,7 @@
 	"gameover_character": "wtf-bf-dead",
 	"vslice_sustains": true,
 	"flip_x": true,
-	"healthbar_colour": -13520687,
+	"healthbar_colour": -16728065,
 	"camera_position": [
 		120,
 		-30

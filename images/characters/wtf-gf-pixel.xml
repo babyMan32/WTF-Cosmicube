@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="idle0000" x="1" y="1" width="78" height="82" frameX="0" frameY="0" frameWidth="78" frameHeight="82" />
+	<SubTexture name="idle0001" x="1" y="1" width="78" height="82" frameX="0" frameY="0" frameWidth="78" frameHeight="82" />
+	<SubTexture name="idle0002" x="80" y="1" width="78" height="82" frameX="0" frameY="0" frameWidth="78" frameHeight="82" />
+	<SubTexture name="idle0003" x="80" y="1" width="78" height="82" frameX="0" frameY="0" frameWidth="78" frameHeight="82" />
+	<SubTexture name="idle0004" x="1" y="84" width="78" height="82" frameX="0" frameY="0" frameWidth="78" frameHeight="82" />
+	<SubTexture name="idle0005" x="1" y="84" width="78" height="82" frameX="0" frameY="0" frameWidth="78" frameHeight="82" />
+</TextureAtlas>

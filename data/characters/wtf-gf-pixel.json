@@ -1,0 +1,45 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/wtf-gf-pixel",
+	"position": [
+		320,
+		332
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"flags": {
+		"isPixel": true
+	},
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "gf",
+	"afterimages": false,
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -5963699,
+	"camera_position": [
+		-330,
+		-140
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6,
+	"scale": 6.8,
+	"_editor_isPlayer": false
+}

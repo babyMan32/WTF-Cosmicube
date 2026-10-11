@@ -1,0 +1,69 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "start",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": true,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "end",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/wtf-bf-pixel-dead",
+	"position": [
+		185,
+		515
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"flags": {},
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "wtf-bf-pixel",
+	"afterimages": true,
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": true,
+	"healthbar_colour": -16728065,
+	"camera_position": [
+		50,
+		-90
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6,
+	"scale": 6.8,
+	"_editor_isPlayer": true
+}
