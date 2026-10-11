@@ -1,9 +1,10 @@
 {
 	"type": "playerSkin",
 	"price": 100,
+
 	"title": "WTF BF",
-	"hint": "",
 	"description": "WHAT THE FUCK",
+
 	"node": {
 		"direction": "west",
 		"parent": "root"
