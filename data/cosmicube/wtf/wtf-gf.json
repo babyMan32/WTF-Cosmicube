@@ -6,6 +6,6 @@
 	"description": "WHAT THE FUCK",
 	"node": {
 		"direction": "east",
-		"parent": "wtf-bf"
+		"parent": "root"
 	}
 }

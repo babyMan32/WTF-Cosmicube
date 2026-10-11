@@ -5,7 +5,7 @@
 	"hint": "",
 	"description": "WHAT THE FUCK",
 	"node": {
-		"direction": "north",
+		"direction": "west",
 		"parent": "root"
 	}
 }
