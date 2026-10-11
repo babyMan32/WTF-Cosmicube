@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="wtf-bf-dead.png">
+	<SubTexture name="start0000" x="0" y="0" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="start0001" x="0" y="0" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="start0002" x="214" y="0" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="start0003" x="214" y="0" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="start0004" x="428" y="0" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="start0005" x="428" y="0" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="loop0000" x="0" y="238" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="loop0001" x="0" y="238" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="loop0002" x="214" y="238" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="loop0003" x="214" y="238" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="loop0004" x="428" y="0" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="loop0005" x="428" y="0" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="end0000" x="428" y="238" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="end0001" x="428" y="238" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="end0002" x="0" y="476" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="end0003" x="0" y="476" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="end0004" x="428" y="0" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+	<SubTexture name="end0005" x="428" y="0" width="214" height="238" frameX="-1" frameY="0" frameWidth="215" frameHeight="238" />
+</TextureAtlas>
