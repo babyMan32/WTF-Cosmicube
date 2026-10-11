@@ -128,7 +128,8 @@
 	"dance_every": 2,
 	"gameover_intial_sound": "gameover-wtf-bf-pixel",
 	"flags": {
-		"isPixel": true
+		"isPixel": true,
+		"noteSkin": "wtf-pixel"
 	},
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
