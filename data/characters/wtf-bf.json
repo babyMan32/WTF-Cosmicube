@@ -139,7 +139,7 @@
 		405
 	],
 	"dance_every": 2,
-	"gameover_intial_sound": null,
+	"gameover_intial_sound": "fnf_loss_sfx-wtf-bf",
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
 	"healthicon": "wtf-bf",

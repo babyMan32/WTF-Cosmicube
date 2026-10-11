@@ -44,4 +44,12 @@
 	<SubTexture name="hey0003" x="264" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
 	<SubTexture name="hey0004" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
 	<SubTexture name="hey0005" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
+	<SubTexture name="hey0006" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
+	<SubTexture name="hey0007" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
+	<SubTexture name="hey0008" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
+	<SubTexture name="hey0009" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
+	<SubTexture name="hey0010" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
+	<SubTexture name="hey0011" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
+	<SubTexture name="hey0012" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
+	<SubTexture name="hey0013" x="528" y="738" width="264" height="246" frameX="0" frameY="0" frameWidth="264" frameHeight="246" />
 </TextureAtlas>

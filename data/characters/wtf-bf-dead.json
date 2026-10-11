@@ -58,7 +58,7 @@
 	"flip_x": true,
 	"healthbar_colour": -13520687,
 	"camera_position": [
-		120,
+		0,
 		-30
 	],
 	"gameover_loop_sound": null,
