@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="wtf-notes.png">
+	<SubTexture name="left static0000" x="1" y="1" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="down static0000" x="84" y="1" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="up static0000" x="167" y="1" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="right static0000" x="250" y="1" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="left press0000" x="333" y="1" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="down press0000" x="1" y="84" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="up press0000" x="84" y="84" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="right press0000" x="167" y="84" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="left confirm0000" x="250" y="84" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="down confirm0000" x="333" y="84" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="up confirm0000" x="1" y="167" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="right confirm0000" x="84" y="167" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="left note0000" x="167" y="167" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="down note0000" x="250" y="167" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="up note0000" x="333" y="167" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="right note0000" x="1" y="250" width="82" height="82" frameX="0" frameY="0" frameWidth="82" frameHeight="82" />
+	<SubTexture name="hold0000" x="111" y="287" width="29" height="12" frameX="0" frameY="0" frameWidth="29" frameHeight="12" />
+	<SubTexture name="tail0000" x="194" y="287" width="29" height="12" frameX="0" frameY="0" frameWidth="29" frameHeight="12" />
+</TextureAtlas>

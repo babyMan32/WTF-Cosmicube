@@ -49,7 +49,9 @@
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
-	"flags": {},
+	"flags": {
+		"isPixel": true
+	},
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
 	"healthicon": "wtf-bf-pixel",
