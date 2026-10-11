@@ -1,9 +1,10 @@
 {
 	"type": "speakerSkin",
 	"price": 100,
+
 	"title": "WTF GF (Pixel)",
-	"hint": "",
 	"description": "WHAT THE FUCK",
+
 	"node": {
 		"direction": "north",
 		"parent": "wtf-gf"

@@ -21,7 +21,7 @@
 				0,
 				0
 			],
-			"anim": "cheer",
+			"anim": "combo50",
 			"fps": 24,
 			"name": "cheer",
 			"indices": [],
@@ -34,7 +34,7 @@
 				0,
 				0
 			],
-			"anim": "sad",
+			"anim": "drop70",
 			"fps": 24,
 			"name": "cry",
 			"indices": [],
