@@ -1,0 +1,11 @@
+{
+	"type": "pet",
+	"price": 100,
+	"title": "WTF Sus",
+	"hint": "",
+	"description": "WHAT THE FUCK IMPOSTER AMONG US SUS",
+	"node": {
+		"direction": "south",
+		"parent": "root"
+	}
+}
