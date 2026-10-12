@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="wtf-pixel-covers.png">
+	<SubTexture name="cover0000" x="1" y="1" width="12" height="6" frameX="0" frameY="0" frameWidth="12" frameHeight="6" />
+	<SubTexture name="cover0001" x="1" y="1" width="12" height="6" frameX="0" frameY="0" frameWidth="12" frameHeight="6" />
+	<SubTexture name="cover0002" x="14" y="1" width="12" height="6" frameX="0" frameY="0" frameWidth="12" frameHeight="6" />
+	<SubTexture name="cover0003" x="14" y="1" width="12" height="6" frameX="0" frameY="0" frameWidth="12" frameHeight="6" />
+	<SubTexture name="cover0004" x="1" y="8" width="12" height="6" frameX="0" frameY="0" frameWidth="12" frameHeight="6" />
+	<SubTexture name="cover0005" x="1" y="8" width="12" height="6" frameX="0" frameY="0" frameWidth="12" frameHeight="6" />
+</TextureAtlas>

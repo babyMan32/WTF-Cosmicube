@@ -124,6 +124,36 @@
 			}
 		]
 	],
+	"noteSplashAnimations": [
+		[
+			{
+				"offsets": [0, 0],
+				"xmlName": "splash",
+				"anim": "splash"
+			}
+		],
+		[
+			{
+				"offsets": [0, 0],
+				"xmlName": "splash",
+				"anim": "splash"
+			}
+		],
+		[
+			{
+				"offsets": [0, 0],
+				"xmlName": "splash",
+				"anim": "splash"
+			}
+		],
+		[
+			{
+				"offsets": [0, 0],
+				"xmlName": "splash",
+				"anim": "splash"
+			}
+		]
+	],
 	"noteAnimations": [
 		[
 			{
@@ -242,8 +272,74 @@
 			}
 		]
 	],
+	"susSplashAnimations": [
+		[
+			{
+				"anim": "start",
+				"xmlName": "cover",
+				"offsets": [0, 0],
+				"looping": true,
+				"fps": 48
+			},
+			{
+				"anim": "end",
+				"xmlName": "cover",
+				"offsets": [0, 0],
+				"fps": 9999
+			}
+		],
+		[
+			{
+				"anim": "start",
+				"xmlName": "cover",
+				"offsets": [0, 0],
+				"looping": true,
+				"fps": 48
+			},
+			{
+				"anim": "end",
+				"xmlName": "cover",
+				"offsets": [0, 0],
+				"fps": 9999
+			}
+		],
+		[
+			{
+				"anim": "start",
+				"xmlName": "cover",
+				"offsets": [0, 0],
+				"looping": true,
+				"fps": 48
+			},
+			{
+				"anim": "end",
+				"xmlName": "cover",
+				"offsets": [0, 0],
+				"fps": 9999
+			}
+		],
+		[
+			{
+				"anim": "start",
+				"xmlName": "cover",
+				"offsets": [0, 0],
+				"looping": true,
+				"fps": 48
+			},
+			{
+				"anim": "end",
+				"xmlName": "cover",
+				"offsets": [0, 0],
+				"fps": 9999
+			}
+		]
+	],
+	"splashTexture": "noteskins/wtf-pixel-splashes",
+	"sustainSplashTexture": "noteskins/wtf-pixel-covers",
 	"antialiasing": false,
 	"inGameColoring": true,
 	"receptorScale": 4.45,
-	"noteScale": 4.45
+	"noteScale": 4.45,
+	"splashScale": 5.575,
+	"susSplashScale": 4.65
 }
